@@ -28,11 +28,15 @@
 | LDR (Biến trở) | A0 |
 
 ### 🚀 Cách sử dụng
-1. Nạp file `src/Day17_Final.ino`
+1. Nạp file `code/Day17.ino`
 2. Vặn biến trở về 0 -> Tự vào ban đêm
 3. Vặn lên 1023 -> Tự về ban ngày
 4. Bấm nhanh khi đèn đỏ -> Xin qua đường
 5. Giữ nút 5s -> Chế độ cấp cứu
+
+
+Video: https://drive.google.com/file/d/1JdoWOGvSAMUI217fCvp5KiFaH618nsBi/view?usp=drive_link + https://drive.google.com/file/d/1yXnmA0Rr0R4H8SLPyFLvj7IZSSSUsAzc/view?usp=drive_link
+
 
 ---
 *Developed by Phương Nguyễn - 2026*
