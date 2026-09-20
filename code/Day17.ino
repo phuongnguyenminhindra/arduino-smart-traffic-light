@@ -66,7 +66,7 @@ void ChangeMode() {
       
       
 
-      else if (held >= 50 && held < 3000) { // bam nhanh
+   if (held >= 50 && held < 3000) { // bam nhanh
         if (currentMode == MODE_NORMAL) {
           pedestrianRequest = true;
           Serial.println("-> Xin qua duong");
